@@ -1,23 +1,22 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+* Set up system requirements accross both of my machines: 
+ * Nodejs server
+ * Mongodb Server
+ * Local environments
+ * Github
+* Assigned myself to first github issue.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
 
 ## This Week's Plan
+* Coordinate with other late members who want to work on potential iOS implementation, given background in iOS development, Xcode and Mac
+* Learn proper protocol on when to commit and which files I should and shouldn't push
+* Ideally push first of many commits towards assigned issue.
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
 
 ## Anything Blocking?
-
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+* Struggled with nodejs installation and server setup due to differing environments
+* 
 
 ## Notes
 
