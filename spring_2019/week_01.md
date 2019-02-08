@@ -11,13 +11,10 @@
 ## This Week's Plan
 * Coordinate with other late members who want to work on potential iOS implementation, given background in iOS development, Xcode and Mac
 * Learn proper protocol on when to commit and which files I should and shouldn't push
-* Ideally push first of many commits towards assigned issue.
-
+* Learn basic javascript syntax as well as begin learning web scraping paradigms
 
 ## Anything Blocking?
 * Struggled with nodejs installation and server setup due to differing environments
-* 
+* No background in javascript
 
 ## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
